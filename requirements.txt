@@ -1,0 +1,16 @@
+aiohttp==3.8.6
+aiosignal==1.3.1
+async-timeout==4.0.3
+attrs==23.1.0
+bitstruct==8.19.0
+cffi==1.16.0
+charset-normalizer==3.3.2
+cryptography==41.0.5
+frozenlist==1.4.0
+idna==3.4
+multidict==6.0.4
+pycparser==2.21
+python-otbr-api==2.5.0
+typing_extensions==4.8.0
+voluptuous==0.14.0
+yarl==1.9.2
